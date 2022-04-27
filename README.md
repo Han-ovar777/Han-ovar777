@@ -18,10 +18,10 @@
 
 ### I am a Security Researcher
 - 🔭 I’m currently looking for a job:
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: Let's get in touch! [LinkedIn](http://www.linkedin.com/in/hanovar-ravi-b870b3217/)
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love connecting with different people 
 
 <br>
 

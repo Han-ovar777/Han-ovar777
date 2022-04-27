@@ -44,7 +44,7 @@
 
   
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanovar777&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Han-ovar777 Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Han-ovar777&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Han-ovar777 Github Stats">
 </p>
 
 <br>

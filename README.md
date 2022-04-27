@@ -44,13 +44,13 @@
 
   
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramalingasamy012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ramalingasamy's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanovar777&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Han-ovar777 Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramalingasamy012&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-ovar777&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 
@@ -61,7 +61,7 @@
 
 #### Thank You-🙏🏼
 
-⭐️ From [Hanovar](https://github.com/Han-ovar777/)
+⭐️ From [Han-ovar777](https://github.com/Han-ovar777/)
 <!---
 Han-ovar777/Han-ovar777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

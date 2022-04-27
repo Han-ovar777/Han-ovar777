@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47xwh3uiexl1s85hs8ondomynvlqs4l89i5lzp6x5z&rid=200w.webp&ct=g" />
 
 
 

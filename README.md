@@ -16,9 +16,9 @@
 
 
 
-### I am a Security Researcher
-- 🔭 I’m currently looking for a job in CyberSecurity
-- 💬 Ask me about anything, I am happy to help
+### I am a Security Consultant
+- 🧑‍💻 I’m working as a Cybersecurity Consultant in Aujas Cybersecurity
+- 💬 Ask me about anything, I am happy to help & Collaborate
 - 📬 How to reach me: Let's get in touch! [LinkedIn](http://www.linkedin.com)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people 

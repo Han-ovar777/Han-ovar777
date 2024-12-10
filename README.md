@@ -17,7 +17,7 @@
 
 
 ### I am a Security Consultant
-- 🧑‍💻 I’m working as a Cybersecurity Consultant in Aujas Cybersecurity
+- 🧑‍💻 I’m working as a Cybersecurity Consultant
 - 💬 Ask me about anything, I am happy to help & Collaborate
 - 📬 How to reach me: Let's get in touch! [LinkedIn](http://www.linkedin.com)
 - 🧗 I try to: Go beyond and push the bounds

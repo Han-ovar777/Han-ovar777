@@ -1,6 +1,6 @@
  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/wt0vgvG.png" height="175px"/></a> 
 <p>
-  <h1 align="center"><b>Hello there, I'm Hanovar  👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm a curious Security Researcher  👋</b></h1>
 </p>
 
 <p align="center">
